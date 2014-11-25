@@ -1,0 +1,3 @@
+practicas
+va fucionado con frontend2014
+bajamos foudation http://foundation.zurb.com/develop/download.html
